@@ -1,0 +1,301 @@
+Iteration 5:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 3:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 10:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 4:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 8:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 7:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 6:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 9:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 33:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 56:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 11:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 12:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 34:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 13:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 14:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 35:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 15:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 2:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 45:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 36:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 1:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 51:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 90:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 47:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 46:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 37:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 48:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 80:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 52:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 38:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 49:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 16:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 50:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 53:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 81:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 54:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 55:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 39:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 96:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 79:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 67:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 82:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 68:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 62:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 40:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 91:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 63:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 83:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 17:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 92:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 64:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 41:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 65:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 69:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 18:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 66:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 42:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 93:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 26:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 70:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 19:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 94:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 43:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 61:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 30:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 44:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 57:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 84:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 58:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 31:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 95:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 32:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 59:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 24:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 20:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 21:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 23:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 25:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 22:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 85:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 28:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 97:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 29:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 71:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 86:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 72:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 89:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 99:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 73:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 87:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 27:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 76:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 60:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 100:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 78:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 75:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 74:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 98:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 77:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Iteration 88:
+Crim vs Median Value: 24.03 + -0.42 * Crim , R-squared: 0.15177447807406752
+Rooms vs Median Value: -34.66 + 9.10 * Rooms , R-squared: 0.48483897365368633
+Finished all iterations
